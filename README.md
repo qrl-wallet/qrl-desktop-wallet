@@ -87,7 +87,7 @@ The repository holds the source of that application. The guides that explain ins
 - **Readers who verify what they download**, and want the published digest beside the file rather than buried in a page.
 - **Anyone pairing a Ledger Nano**, so that a hardware device approves each signature.
 
-## Features
+## Features.
 
 - **Local keys.** The wallet file is written on your machine and protected by a password you choose.
 - **XMSS signing.** Each spend uses the next one-time key in the address's tree, and the wallet shows the remaining count.
